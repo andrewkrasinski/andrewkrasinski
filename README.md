@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently grinding my data structures and algos<br>👯 I’m looking to collaborate on innovative, engaging, and educational projects<br>🤝 I’m looking for help mastering new technologies or programming languages<br>🌱 CS Major at Stevens Institute of Technology ('25)<br>💬 Ask me about crafting the perfect latte<br>⚡ Lover of electronic dance music / DJ on the side
+🔭 I’m currently grinding my data structures and algos<br>👯 I’m looking to collaborate on innovative, engaging, and educational projects<br>🤝 I’m looking for help mastering new technologies or programming languages<br>🌱 CS Major at Stevens Institute of Technology ('25)<br>💬 Ask me about crafting the perfect latte<br>⚡ Lover of electronic dance music, DJ on the side
 
 
 ## 🌐 Socials:
