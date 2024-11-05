@@ -1,5 +1,5 @@
 # 👋 About Me:
-⚡ Aspiring Product Manager
+⚡ Product Manager
 
 
 ## 🌐 Socials:
